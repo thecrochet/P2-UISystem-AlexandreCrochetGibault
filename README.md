@@ -89,7 +89,7 @@ SYSTEMS
 
 Pickups create ItemData ScriptableObjects that are stored in `PlayerInventory` and displayed in the Inventory UI. Some items may optionally apply immediately on pickup (configurable per pickup).
 
-The Slots appear as you collect item (maxed to 10) but it's not truly a collectible inventory more a backpack inventory
+The Slots appear as you collect item (maxed to 10) but it's not truly a collectible inventory more a backpack inventory. There is however 4 slots possible, just it won't show until you have 4 items by design
 
 
 
